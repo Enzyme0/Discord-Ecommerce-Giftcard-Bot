@@ -1,0 +1,17 @@
+{
+    "token": "MTA1MDYyMjk1NTQ4NDM1MjU0Mg.GXxmjl.uxIPL6fEfTfauqKmC4ezwObNkkHlEinMLRT2Pw",
+    "clientId": "1050622955484352542",
+    "guildId": "1050591906972827658",
+    "pickRole": "1047772892928163902",
+    "adminRole": "1050270581330812978",
+    "oneDayRole": "968454769079361547",
+    "threeDayRole": "964290088093769758",
+    "sevenDayRole": "963874901062729738",
+    "oneMonthRole": "964290407183818802",
+    "threeMonthRole": "964290540927598593",
+    "oneYearRole": "964290734817697812",
+    "twoYearRole": "964290798277505134",
+    "dburl" : "mongodb+srv://main:LlYhK9Gjl5VUorhT@cluster0.pckwctr.mongodb.net/test",
+    "pop3Mail": "28Ch1xj$bPgx6l5XDJ!qkGoXik%",
+    "pop3MailUser": "bazingaHolder55"
+}
