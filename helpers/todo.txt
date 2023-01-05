@@ -1,0 +1,10 @@
+when the cashapp or venmo button is pressed
+
+    Create a custom code with 3 random words and assign it to the channel
+
+use the node mailer package to read all incoming emails from the correct addresses for CashApp and Venmo Payments
+
+check the custom message from the sender if it is in any of the channels
+
+if it is 
+    send a giftcard to the user and add the channel complete
